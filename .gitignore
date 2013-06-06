@@ -1,0 +1,14 @@
+# Visual Studio artifacts
+bin
+obj
+*.user
+*.suo
+*.vsp
+*.cache
+
+#Nuget
+packages
+
+# Merge tool artifacts
+*.cs.orig
+*.vb.orig
